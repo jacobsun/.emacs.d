@@ -1,0 +1,8 @@
+auto-save-list/
+elpa/
+*.el~
+.cache
+.emacs.bak
+.mc-lists.el
+recentf
+ac-comphist.dat
